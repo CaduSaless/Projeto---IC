@@ -20,3 +20,6 @@ VCC → 5V.
   O Buzzer é ligado com uma resistência de 1000Ω, onde a parte negativa é
 ligada ao GND e a postitiva é ligada à porta analógica A0. Para o Sensor PIR
 é utilizado uma porta analógica A3, o GND e o 5V.
+
+Projeto no Tinkercad:
+https://www.tinkercad.com/things/6rm2wCiIoAv-projeto-ic
